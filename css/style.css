@@ -1,0 +1,54 @@
+
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+
+#top {
+    text-align: center;
+}
+
+
+#main {
+    max-width: 600px;
+    margin: auto;
+    padding: 15px;
+}
+
+#footer {
+    text-align: center;
+    color: grey;
+    padding: 20px;
+
+}
+
+#logo {
+    color: white;
+    background-color: rgb(250, 166, 180);
+    display: inline-block;
+    font-size: 35px;
+    font-weight: bolder;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+#logo-name {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+#navigation a {
+    color: grey;
+    padding: 10px;
+}
+#navigation a:hover {
+    color: rgb(250, 166, 180);
+}
+
+#image img {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
